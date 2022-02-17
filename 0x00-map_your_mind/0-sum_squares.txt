@@ -1,0 +1,7 @@
+Get total numbers as N
+Set a counter and SUM = 0
+Get inputed number as NUM
+Increase counter ( counter= counter + 1)
+Calculte the square of NUM (sqr = NUM * NUM)
+check counter (if counter is less than N repeat step 3 and step 4)
+Display SUM
